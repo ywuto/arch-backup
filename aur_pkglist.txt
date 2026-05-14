@@ -1,0 +1,9 @@
+neofetch
+parsec-bin
+paru
+paru-debug
+qt5ct-kde
+qt6ct-kde
+qview
+visual-studio-code-bin
+wlogout
